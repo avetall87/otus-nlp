@@ -1,4 +1,4 @@
-# какая-то иницифализация
+# какая-то инициализация
 from fake_useragent import UserAgent
 
 
