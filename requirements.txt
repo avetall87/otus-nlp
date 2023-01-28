@@ -1,0 +1,9 @@
+requests == 2.28.2
+numpy == 1.24.1
+pandas == 1.5.3
+python-dotenv == 0.21.1
+fake-useragent == 1.1.1
+beautifulsoup4 == 4.11.1
+PySocks == 1.7.1
+stem == 1.8.1
+retry == 0.9.2

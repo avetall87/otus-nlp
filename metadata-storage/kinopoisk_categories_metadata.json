@@ -1,0 +1,778 @@
+[
+  {
+    "Лучшие фильмы-2022 по версии редакции": {
+      "href": "/lists/movies/best_movies_2022_editorialchoice/",
+      "filmCount": "25",
+      "films": [
+        {
+          "name": "Всё везде и сразу",
+          "link": "/film/1322324/",
+          "year": "2021",
+          "country": "США",
+          "rating": "7.3",
+          "scoreCount": "302 154"
+        },
+        {
+          "name": "Сядь за руль моей машины",
+          "link": "/film/4382259/",
+          "year": "2021",
+          "country": "Япония",
+          "rating": "7.3",
+          "scoreCount": "26 331"
+        },
+        {
+          "name": "Лакричная пицца",
+          "link": "/film/1320623/",
+          "year": "2021",
+          "country": "США",
+          "rating": "7.1",
+          "scoreCount": "44 768"
+        },
+        {
+          "name": "Решение уйти",
+          "link": "/film/1435399/",
+          "year": "2022",
+          "country": "Корея Южная",
+          "rating": "7.1",
+          "scoreCount": "24 577"
+        },
+        {
+          "name": "Камон Камон",
+          "link": "/film/1309501/",
+          "year": "2021",
+          "country": "США",
+          "rating": "7.6",
+          "scoreCount": "19 975"
+        },
+        {
+          "name": "Нет",
+          "link": "/film/1447137/",
+          "year": "2022",
+          "country": "США",
+          "rating": "6.3",
+          "scoreCount": "27 373"
+        },
+        {
+          "name": "Три тысячи лет желаний",
+          "link": "/film/1209527/",
+          "year": "2022",
+          "country": "Австралия",
+          "rating": "7.3",
+          "scoreCount": "244 885"
+        },
+        {
+          "name": "Блондинка",
+          "link": "/film/525530/",
+          "year": "2022",
+          "country": "США",
+          "rating": "6.1",
+          "scoreCount": "16 560"
+        },
+        {
+          "name": "На Западном фронте без перемен",
+          "link": "/film/316376/",
+          "year": "2022",
+          "country": "Германия",
+          "rating": "7.6",
+          "scoreCount": "34 080"
+        },
+        {
+          "name": "RRR: Рядом ревёт революция",
+          "link": "/film/1115117/",
+          "year": "2022",
+          "country": "Индия",
+          "rating": "8.0",
+          "scoreCount": "74 063"
+        },
+        {
+          "name": "Преступления будущего",
+          "link": "/film/4440349/",
+          "year": "2022",
+          "country": "Канада",
+          "rating": "5.7",
+          "scoreCount": "18 097"
+        },
+        {
+          "name": "Топ Ган: Мэверик",
+          "link": "/film/572032/",
+          "year": "2022",
+          "country": "США",
+          "rating": "7.8",
+          "scoreCount": "80 576"
+        },
+        {
+          "name": "Главная роль",
+          "link": "/film/1344821/",
+          "year": "2021",
+          "country": "Испания",
+          "rating": "7.1",
+          "scoreCount": "64 244"
+        },
+        {
+          "name": "Быстрее пули",
+          "link": "/film/1392550/",
+          "year": "2022",
+          "country": "США",
+          "rating": "7.7",
+          "scoreCount": "118 553"
+        },
+        {
+          "name": "Продукты 24",
+          "link": "/film/1311130/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "6.1",
+          "scoreCount": "5 237"
+        },
+        {
+          "name": "Солнце моё",
+          "link": "/film/4948281/",
+          "year": "2022",
+          "country": "Великобритания",
+          "rating": "7.3",
+          "scoreCount": "2 514"
+        },
+        {
+          "name": "Чип и Дейл спешат на помощь",
+          "link": "/film/840266/",
+          "year": "2022",
+          "country": "США",
+          "rating": "6.7",
+          "scoreCount": "22 619"
+        },
+        {
+          "name": "Варвар",
+          "link": "/film/4749790/",
+          "year": "2022",
+          "country": "США",
+          "rating": "6.6",
+          "scoreCount": "20 542"
+        },
+        {
+          "name": "Падение Луны",
+          "link": "/film/988816/",
+          "year": "2022",
+          "country": "США",
+          "rating": "5.4",
+          "scoreCount": "56 813"
+        },
+        {
+          "name": "Худший человек на свете",
+          "link": "/film/4479538/",
+          "year": "2021",
+          "country": "Норвегия",
+          "rating": "7.4",
+          "scoreCount": "18 067"
+        },
+        {
+          "name": "Чёрная Пантера: Ваканда навеки",
+          "link": "/film/1199773/",
+          "year": "2022",
+          "country": "США",
+          "rating": "6.7",
+          "scoreCount": "35 627"
+        },
+        {
+          "name": "Экспресс",
+          "link": "/film/2000127/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "6.5",
+          "scoreCount": "2 723"
+        },
+        {
+          "name": "Банши Инишерина",
+          "link": "/film/1354524/",
+          "year": "2022",
+          "country": "Ирландия",
+          "rating": "7.6",
+          "scoreCount": "26 379"
+        },
+        {
+          "name": "Оторви и выбрось",
+          "link": "/film/1251147/",
+          "year": "2021",
+          "country": "Россия",
+          "rating": "6.4",
+          "scoreCount": "24 454"
+        },
+        {
+          "name": "После Янга",
+          "link": "/film/1261977/",
+          "year": "2021",
+          "country": "США",
+          "rating": "6.5",
+          "scoreCount": "1 794"
+        }
+      ]
+    }
+  },
+  {
+    "Цифровые релизы": {
+      "href": "/lists/movies/coming-soon-digital/",
+      "filmCount": "71",
+      "films": [
+        {
+          "name": "Моя пиратская свадьба",
+          "link": "/film/1446792/",
+          "year": "2022",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Чебурашка. История новогоднего чуда",
+          "link": "/series/5248437/",
+          "year": "2023",
+          "country": "Россия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Терапия",
+          "link": "/series/4675392/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Идеальная семья",
+          "link": "/film/1056136/",
+          "year": "2018",
+          "country": "Италия",
+          "rating": "6.3",
+          "scoreCount": "335"
+        },
+        {
+          "name": "Двойной обман Мадлен Коллинз",
+          "link": "/film/1328419/",
+          "year": "2021",
+          "country": "Франция",
+          "rating": "5.9",
+          "scoreCount": "828"
+        },
+        {
+          "name": "Наша зима",
+          "link": "/film/5104424/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Цена ошибки",
+          "link": "/film/4479183/",
+          "year": "2021",
+          "country": "Италия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Зона X",
+          "link": "/film/872578/",
+          "year": "2015",
+          "country": "Дания",
+          "rating": "",
+          "scoreCount": "585"
+        },
+        {
+          "name": "Nate Bargatze: Hello World",
+          "link": "/film/5235969/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Детектив Конан: Преступник Ханадзава",
+          "link": "/series/5246988/",
+          "year": "2022",
+          "country": "Япония",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Мертвы и мажоры",
+          "link": "/film/1283716/",
+          "year": "2021",
+          "country": "Нидерланды",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Полицейская история: В осаде",
+          "link": "/film/731079/",
+          "year": "2013",
+          "country": "Китай",
+          "rating": "6.2",
+          "scoreCount": "6 112"
+        },
+        {
+          "name": "Игра в иллюзию",
+          "link": "/film/4511069/",
+          "year": "2022",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Сделай мой день",
+          "link": "/series/4977381/",
+          "year": "2023",
+          "country": "Япония",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Комплекс бога",
+          "link": "/series/4974490/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Класс",
+          "link": "/series/5117976/",
+          "year": "2023",
+          "country": "Индия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Dear Edward",
+          "link": "/series/4845542/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Вздох",
+          "link": "/film/272616/",
+          "year": "2007",
+          "country": "Корея Южная",
+          "rating": "7.4",
+          "scoreCount": "4 907"
+        },
+        {
+          "name": "Незавершённое дело",
+          "link": "/film/4546958/",
+          "year": "2022",
+          "country": "Испания",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Legion of Super-Heroes",
+          "link": "/film/5138517/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Раневская",
+          "link": "/series/788277/",
+          "year": "2021",
+          "country": "Россия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Фишер",
+          "link": "/series/4443734/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Битва шефов",
+          "link": "/film/4422193/",
+          "year": "2022",
+          "country": "Испания",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Девятка",
+          "link": "/film/959958/",
+          "year": "2020",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Иван Царевич и Серый Волк 5",
+          "link": "/film/5101781/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "5.9",
+          "scoreCount": "3 425"
+        },
+        {
+          "name": "Каспер. Легенда возвращается",
+          "link": "/film/4293213/",
+          "year": "2022",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Любовное сражение",
+          "link": "/series/4707576/",
+          "year": "2023",
+          "country": "Корея Южная",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Farzi",
+          "link": "/series/5245003/",
+          "year": "2023",
+          "country": "Индия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Кто-то, кого я знал",
+          "link": "/film/4541462/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Хоккей навсегда",
+          "link": "/film/1269654/",
+          "year": "2020",
+          "country": "Чехия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Женщина нашего времени",
+          "link": "/film/4439802/",
+          "year": "2022",
+          "country": "Франция",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Шаляпин",
+          "link": "/series/4713046/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Untouchable",
+          "link": "/film/1426537/",
+          "year": "2021",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "В поисках тела",
+          "link": "/film/5001240/",
+          "year": "2022",
+          "country": "Япония",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Содержанки 4",
+          "link": "/series/5020999/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Молодость",
+          "link": "/film/5074901/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "7.2",
+          "scoreCount": "374"
+        },
+        {
+          "name": "Клипмейкеры",
+          "link": "/film/4534033/",
+          "year": "2022",
+          "country": "Россия",
+          "rating": "6.2",
+          "scoreCount": "1 630"
+        },
+        {
+          "name": "Опасный город",
+          "link": "/film/1419628/",
+          "year": "2021",
+          "country": "Италия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Переулок Мучениц",
+          "link": "/film/1309511/",
+          "year": "2021",
+          "country": "Великобритания",
+          "rating": "",
+          "scoreCount": "332"
+        },
+        {
+          "name": "Антология русского хоррора: Красный состав",
+          "link": "/series/5144175/",
+          "year": "2023",
+          "country": "Россия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Украденная личность",
+          "link": "/film/4492566/",
+          "year": "2023",
+          "country": "Корея Южная",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Аферисты",
+          "link": "/film/4383102/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Здравствуй, будущее!",
+          "link": "/series/4924735/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Тропа смерти",
+          "link": "/film/4626733/",
+          "year": "2021",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Белль и Себастьян: Новое поколение",
+          "link": "/film/4745703/",
+          "year": "2022",
+          "country": "Франция",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Черная метка",
+          "link": "/film/4477457/",
+          "year": "2022",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Беспощадные киллеры",
+          "link": "/film/1214412/",
+          "year": "2022",
+          "country": "Италия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Скажи мне, что это любовь",
+          "link": "/series/5131394/",
+          "year": "2023",
+          "country": "Корея Южная",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Телекинез",
+          "link": "/film/4439706/",
+          "year": "2021",
+          "country": "Канада",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Меня зовут Тихиро",
+          "link": "/film/5213797/",
+          "year": "2023",
+          "country": "Япония",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Liaison",
+          "link": "/series/4501342/",
+          "year": "2023",
+          "country": "Франция",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "The Consultant",
+          "link": "/series/4781118/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "The Reluctant Traveler",
+          "link": "/series/5235971/",
+          "year": "2023",
+          "country": "Великобритания",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Die Hart the Movie",
+          "link": "/film/5246496/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Заговор в Каире",
+          "link": "/film/4746564/",
+          "year": "2022",
+          "country": "Швеция",
+          "rating": "7.2",
+          "scoreCount": "949"
+        },
+        {
+          "name": "13 минут",
+          "link": "/film/1289900/",
+          "year": "2021",
+          "country": "Канада",
+          "rating": "",
+          "scoreCount": "853"
+        },
+        {
+          "name": "Хищники",
+          "link": "/film/4673172/",
+          "year": "2022",
+          "country": "Испания",
+          "rating": "6.4",
+          "scoreCount": "719"
+        },
+        {
+          "name": "Дейзи Джонс и The Six",
+          "link": "/series/1323119/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Рыцари Готэма",
+          "link": "/series/4764668/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Тайна в его глазах",
+          "link": "/film/428003/",
+          "year": "2009",
+          "country": "Аргентина",
+          "rating": "7.4",
+          "scoreCount": "25 582"
+        },
+        {
+          "name": "Экстраполяции",
+          "link": "/series/4671626/",
+          "year": "2022",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Чёрный клевер: Меч короля магов",
+          "link": "/film/5126555/",
+          "year": "2023",
+          "country": "Япония",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "The Last Thing He Told Me",
+          "link": "/series/4745262/",
+          "year": "2022",
+          "country": "США  Режиссёр: Оливия Ньюман",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Не стучи",
+          "link": "/film/4543706/",
+          "year": "2022",
+          "country": "Финляндия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Миссис Дэвис",
+          "link": "/series/5010941/",
+          "year": "2022",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Dear Mama",
+          "link": "/series/5141355/",
+          "year": "2022",
+          "country": "США  Режиссёр: Аллен Хьюз",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "City on Fire",
+          "link": "/series/4701982/",
+          "year": "2023",
+          "country": "США",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Парень с того света",
+          "link": "/film/4367365/",
+          "year": "2022",
+          "country": "Великобритания",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Не засыпай",
+          "link": "/film/4949084/",
+          "year": "2023",
+          "country": "Ирландия",
+          "rating": "",
+          "scoreCount": ""
+        },
+        {
+          "name": "Банды Парижа",
+          "link": "/film/4959107/",
+          "year": "2023",
+          "country": "Франция",
+          "rating": "",
+          "scoreCount": ""
+        }
+      ]
+    }
+  }
+]
